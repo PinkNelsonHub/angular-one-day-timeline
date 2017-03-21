@@ -1,7 +1,7 @@
 {
   "name": "angular-one-day-timeline",
   "main": ["angular-one-day-timeline.js","angular-one-day-timeline.css"],
-  "version": "0.0.1",
+  "version": "0.0.5",
   "authors": [
     "Ilia Glushkov (eliasmamo)"
   ],
